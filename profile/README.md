@@ -44,7 +44,7 @@ Nosso sucesso depende da sua participação! Seja adicionando um novo recurso, c
 
 ## **Licença**
 
-Este projeto é licenciado sob a Licença MIT. Consulte [LICENSE](LICENSE) para mais informações.
+Este projeto é licenciado sob a Licença GNU AGPL v3. Consulte [LICENSE](LICENSE) para mais informações.
 
 ---
 
